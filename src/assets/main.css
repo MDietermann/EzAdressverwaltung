@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+}
+
+body {
+    @apply bg-gray-400;
+    @apply text-gray-800;
+    @apply px-64;
+    @apply py-16;
+}
